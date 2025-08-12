@@ -1,6 +1,6 @@
 # 👁️ Intelligent Navigation Assistant for the Visually Impaired  
 
--
+
 ## 📌 Vision & Mission  
 Empowering visually impaired individuals through a **free, charitable, intelligent navigation assistant**.  
 Leveraging **offline multimodal AI** as "intelligent eyes," the system enhances **safety and autonomy** by delivering **real-time descriptive audio feedback** about environmental obstacles—enabling safe and confident navigation.  
