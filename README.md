@@ -2,7 +2,8 @@
 
 
 ## 📌 Vision & Mission  
-Empowering visually impaired individuals through a **free, charitable, intelligent navigation assistant**.  
+Empowering visually impaired individuals through a **free, charitable, intelligent navigation assistant**
+<img width="1080" height="540" alt="cover" src="https://github.com/user-attachments/assets/06027c41-9e66-47a3-9a3a-38b6af4d9f38" />
 Leveraging **offline multimodal AI** as "intelligent eyes," the system enhances **safety and autonomy** by delivering **real-time descriptive audio feedback** about environmental obstacles—enabling safe and confident navigation.  
 
 Born at **Google – The Gemma 3n Impact Challenge**, we are committed to the **long-term non-profit development** of this technology.  
